@@ -109,3 +109,12 @@ import { Tooltip, Toast, Popover } from 'bootstrap';
 ```
 
 Normally you don't need import bootstrap package. But when you need `Tooltip`, `Toast`, `Popover` to work properly, you need to import them into your react components.
+
+### Start to dev
+
+```bash
+yarn dev
+```
+and open the url, you will see a page similiar to the following picture:
+
+![](./screenshot.png)
