@@ -68,7 +68,7 @@ yarn add --dev @types/node
 ### Install sass support
 
 ```bash
-yarn add sass
+yarn add --dev sass
 ```
 
 ### Change `.css` files to `.scss`
